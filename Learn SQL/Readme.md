@@ -5,5 +5,4 @@ We live in a data-driven world: people search through data to find insights to i
 In this course, you’ll learn how to communicate with relational databases through SQL. You’ll learn—and practice with 4 projects—how to manipulate data and build queries that communicate with more than one table.
 
 
-
-https://www.codecademy.com/learn/learn-sql
+For link click [here](https://www.codecademy.com/learn/learn-sql) 
