@@ -12,4 +12,3 @@ You will learn programming fundamentals and basic object-oriented concepts using
 For link click [here](https://www.codecademy.com/learn/introduction-to-javascript) 
 
 
-![Congrats](./introduction.png)

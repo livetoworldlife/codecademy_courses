@@ -3,4 +3,4 @@ In this course, you will learn about JavaScript data types, built-in methods, an
 
 
 
-![Congrats](./complate.png)
+![Congrats](./introduction.png)
